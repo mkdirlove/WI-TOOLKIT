@@ -1,5 +1,5 @@
-# WI-TOOLKIT IS DEDICATED FOR ALL THE TERMUX USERS FROM OUR FACEBOOK GROUP "TERMUX PHILIPPINES"
-# https://www.facebook.com/groups/427631411331889/
+# WI-TOOLKIT is dedicated for all the Termux users in our Facbook Group "TERMUX PHILIPPINES"
+# GROUP: https://www.facebook.com/groups/427631411331889/
 #
 A Python hacking tool for Termux users ( ROOTED DEVICES ONLY)
 
