@@ -17,7 +17,7 @@ Offline Captured file crack
 
 `$ ./install.sh`
 
-$ sudo python wi-toolkit.py`
+`$ sudo python wi-toolkit.py`
 
 or
 
