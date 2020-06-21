@@ -2,6 +2,9 @@
 # WARNING: PLEASE USE "tsudo" IF YOU ARE USING TERMUX!!!
 # GROUP: https://www.facebook.com/groups/427631411331889/
 #
+# JUST PM ME IF YOU ENCOUNTER AN ERROR!!!
+# SEND MESSAGE TO: https://web.facebook.com/mkdirlove.git
+#
 A Python hacking tool for Termux users ( ROOTED DEVICES ONLY)
 
 # FEATURES
