@@ -27,5 +27,4 @@ or
 
 
 # TOOL PREVIEW
-
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/HOST-FINDER/blob/master/1.png)
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/WI-TOOLKIT/blob/master/1.png)
