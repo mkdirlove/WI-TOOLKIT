@@ -1,5 +1,5 @@
 # WI-TOOLKIT is dedicated for all the Termux users in our Facbook Group "TERMUX PHILIPPINES"
-# USE TSUDO IF YOU ARE USING TERMUX!!!
+# WARNING: PLEASE USE "tsudo" IF YOU ARE USING TERMUX!!!
 # GROUP: https://www.facebook.com/groups/427631411331889/
 #
 A Python hacking tool for Termux users ( ROOTED DEVICES ONLY)
