@@ -5,6 +5,7 @@
 # JUST PM ME IF YOU ENCOUNTER AN ERROR!!!
 # SEND MESSAGE TO: https://web.facebook.com/mkdirlove.git
 #
+<img src="https://img.shields.io/badge/made%20with-python-blue.svg?style=flat-square" alt="made with python">
 A Python hacking tool for Termux users ( ROOTED DEVICES ONLY)
 
 # FEATURES
