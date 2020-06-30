@@ -14,7 +14,7 @@ WPS Attack
 WPA / WPA2 Attack
 Offline Captured file crack
 
-# USAGE
+# INSTALLATION & USAGE
 
 `$ git clone https://github.com/mkdirlove/WI-TOOLKIT`
 
